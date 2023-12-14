@@ -5,7 +5,6 @@ Artefy deals with City or Horror images, Different collections of NFTs like Patr
 
 
 1. NFT platform with dashboard, drop pages, marketplace, and auctions on Polygon blockchain network. 
-2. Cross-chain bridge to transfer the NFT from the Polygon chain to Cronos chain.
 3. ERC721 standard for Smart Contracts and Proxy pattern based approach for upgradeability.
 
 ## Components 
@@ -37,10 +36,7 @@ Artefy deals with City or Horror images, Different collections of NFTs like Patr
     * Refund Bid
     * Claim Auction Amount
 
-### Bridging
-* To bridge the NFTs on Cronos chain
-  * Create and deploy NFT contracts on both chains.
-  * Create and deploy bridge contracts on both chains.
+
 
 ### Deployed Contracts Addresses
 * https://mumbai.polygonscan.com/address/0x5B12c1BD4fc7Fe1A7d829678E1b4cD69c541736b#code
